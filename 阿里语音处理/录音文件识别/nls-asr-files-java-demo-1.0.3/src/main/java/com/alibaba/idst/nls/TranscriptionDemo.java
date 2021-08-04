@@ -22,8 +22,8 @@ public class TranscriptionDemo {
 
 
     public static void main(String[] args) throws InterruptedException {
-        String ak_id = "LTAI5BedrzTawfB3";//args[0]; //数加管控台获得的accessId
-        String ak_secret = "G0vsTevT9z7zqSjLl8E5WAqn0G67k8";//args[1]; // 数加管控台获得的accessSecret
+        String ak_id = "aaaaaaaaaaaa";//args[0]; //数加管控台获得的accessId
+        String ak_secret = "bbbbbbbbbbbbbb";//args[1]; // 数加管控台获得的accessSecret
 
 
         body.setApp_key("nls-service-telephone8khz"); //简介页面给出的Appkey
